@@ -1,0 +1,19 @@
+body{
+  background-color:powderblue;
+}
+h1{
+  color: #16c79a;
+
+}
+h3{
+  color: #16c79a;
+}
+hr{
+  border-style: none;
+  border-top:5px dotted;
+  width: 8%;
+  color: grey;
+}
+img{
+  border-radius: 50%;
+}
